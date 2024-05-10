@@ -12,7 +12,7 @@ using Nethereum.Contracts;
 using System.Threading;
 using Nethereum.Uniswap.Contracts.UniswapV3Pool.ContractDefinition;
 
-namespace Nethereum.Uniswap.Contracts.UniswapV3Pool
+namespace Nethereum.Uniswap.Contracts.UniswapV3Pool 
 {
     public partial class UniswapV3PoolService
     {
